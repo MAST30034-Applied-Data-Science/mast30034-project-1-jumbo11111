@@ -7,9 +7,9 @@
 **Timeline:** The timeline for the research area is September to December in 2021
 
 Directory
-1. data/raw: Contains all the raw data files.
-2. data/curated: Contains all the preprocessed data files.
-3. plots: Output plots.
+1. `data/raw`: Contains all the raw data files.
+2. `data/curated`: Contains all the preprocessed data files.
+3. `plots`: Output plots.
 
 To run the pipeline, please visit the `notebook` directory and run the files in order:
 1. `preprocess.ipynb`: This notebook will download the data needed and details all preprocessing steps and outputs it to the `data/curated` directory.
